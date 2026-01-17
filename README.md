@@ -183,8 +183,6 @@ if (L >= 10)           // Minimum turning space
 4. Push to branch
 5. Open Pull Request
 
-## 📄 **License**
-MIT License - See [LICENSE](LICENSE) for details.
 
 ## 🙏 **Acknowledgments**
 - Original tutorial by [SriTu Hobby](https://srituhobby.com)
